@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "author": {
+    "name": "The Bouqs, Co"
+  },
+  "dependencies": {
+    "extend": "^1.2.1",
+    "soap": "^0.24.0",
+    "xml2js": "^0.4.12"
+  },
+  "description": "FedEx API bindings for Node.JS",
+  "homepage": "https://github.com/fportela-ns/fedex-client.git#readme",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "name": "fedex-client",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fportela-ns/fedex-client.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
