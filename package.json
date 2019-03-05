@@ -4,7 +4,7 @@
     "name": "The Bouqs, Co"
   },
   "dependencies": {
-    "extend": "^1.2.1",
+    "extend": "^3.0.2",
     "soap": "^0.24.0",
     "xml2js": "^0.4.12"
   },
