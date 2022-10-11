@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "extend": "^3.0.2",
-    "soap": "^0.24.0",
+    "soap": "^0.45.0",
     "xml2js": "^0.4.12"
   },
   "description": "FedEx API bindings for Node.JS",
